@@ -1,0 +1,69 @@
+.top {
+    background-color: #9c9b9b;
+    text-align: center;
+    margin-left:250px;
+    margin-right:250px;
+}
+
+a {
+    margin: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+
+a:hover {
+    color: red;
+    font-size: 21px; /* changes font-size of links (<a>) when you hover over */
+}
+
+
+.click {
+    background-color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:250px;
+    margin-right:250px;
+    text-align: center;
+}
+
+.image {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.names {
+    background-color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:250px;
+    margin-right:250px;
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.contact a {
+    opacity: 50%; /* opactiy of social media changes when you hover over */
+}
+
+.contact a:hover {
+opacity: 100%; 
+}
+
+.top:hover {
+    background-color: red;
+}

@@ -1,0 +1,75 @@
+.top {
+    background-color: #9c9b9b;
+    text-align: center;
+    margin-left:250px;
+    margin-right:250px;
+}
+
+.top:hover {
+    background-color: red;
+}
+
+
+a {
+    margin: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+a:hover {
+    color: red;
+    font-size: 21px;
+}
+
+.click {
+    background-color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:250px;
+    margin-right:250px;
+    text-align: center;
+}
+
+.music {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:250px;
+    margin-right:250px;
+    text-align: center;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    text-decoration: none;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    font-size: 10px;
+}
+
+.comeback {
+    background-color:rgba(216, 213, 213, 0.829);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:250px;
+    margin-right:250px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+}
+
+p {
+    font-family: 'STIX Two Text', serif;
+}
+
+.contact {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    margin-top: 20px;
+    font-size: 12px;
+}
